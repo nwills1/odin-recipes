@@ -1,0 +1,26 @@
+body {
+    margin: 40px;
+    font-size: 18px;
+    background-color: #E8E8C3;
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: #D7A912;
+    color: #32621E;
+}
+
+.image { 
+    text-align: center;
+}
+
+.button {
+    background-color: #D9D60B;
+    
+}
+
+h1 {
+    
+}
