@@ -21,6 +21,8 @@ h1 {
     
 }
 
-h1 {
-    
+h3 {
+    font-size: 21px;
+    background-color: rgb(197, 200, 200);
+    padding: 10px;
 }
