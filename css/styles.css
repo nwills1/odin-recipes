@@ -30,6 +30,16 @@ h3 {
     margin-top: 5px;
 }
 
+.ingredients {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+ul {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
 a { 
     text-decoration: none;
     font-size: 22px;
