@@ -1,10 +1,15 @@
 body {
-    margin: 40px;
-    font-size: 18px;
     background-image: url(../images/leaves-pattern.jpg);
     font-family: "Arial Narrow", Arial, sans-serif; 
     line-height: 1.4;
     color: black;
+}
+
+.card {
+    margin: auto 60px;
+    border: 2px solid #9e7310;
+    background-color: #ebe7df;
+    box-shadow: #352608;
 }
 
 h1 {
@@ -12,11 +17,6 @@ h1 {
     font-size: 50px;
     background-color: #D7A912;
     color: #32621E;
-}
-
-.intro {
-    font-size: 29px;
-    margin-right: 5px;
 }
 
 .image { 
